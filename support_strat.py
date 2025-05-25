@@ -1,5 +1,3 @@
-# support_strat.py  (fixed)
-
 import json, joblib, faiss, numpy as np
 from datasets import load_dataset
 from sentence_transformers import SentenceTransformer
